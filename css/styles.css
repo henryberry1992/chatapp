@@ -1,0 +1,20 @@
+
+/* Fix for iOS to stop zooming */
+input[type='text'],
+input[type='password'],
+textarea {
+  font-size: 16px;
+}
+
+.nopadding {
+	padding: 0;
+}
+
+.nomargin {
+	margin: 0;
+}
+
+li
+{
+	list-style: none;
+}
